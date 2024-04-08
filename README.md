@@ -1,2 +1,2 @@
-# Real-Estate-Analysis-Unveiling-Trends-and-Predicting-Prices
+# Real Estate Analysis: Unveiling Trends and Predicting Prices
 This repository contains a comprehensive analysis of the real estate market, focused on predicting property prices based on a variety of features. The project leverages a dataset that includes details such as property size, location, number of bedrooms and bathrooms, and more, to uncover trends and patterns that influence property valuation.
