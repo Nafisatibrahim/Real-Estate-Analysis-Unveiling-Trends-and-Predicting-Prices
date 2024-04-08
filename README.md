@@ -3,6 +3,8 @@
 ## Introduction
 This project presents an in-depth analysis of the real estate market aimed at predicting property prices. By utilizing a comprehensive dataset, the analysis focuses on identifying pricing patterns, understanding property features preferences, evaluating regional market dynamics, and developing predictive models for informed real estate decision-making.
 
+Here is the link to the project: https://drive.google.com/drive/folders/1chuK2g1Qh9cSMjyU_XYbz40LtCJ0Jw96?usp=drive_link
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Setup and Data Loading](#setup-and-data-loading)
@@ -73,4 +75,5 @@ For further information and data sources, please refer to the [Kaggle dataset](h
 
 ## Contact
 For any inquiries or contributions to the project, please open an issue in the GitHub issue tracker.
-
+Email: Nafisat.l@outlook.com || Nafisatibrahim@my.unt.edu
+LinkedIn: https://www.linkedin.com/in/nafisat-ibrahim-14508725a/
